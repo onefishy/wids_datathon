@@ -4,7 +4,9 @@
 
 This year's workshop is organized by:
 1. Weiwei Pan (Harvard IACS)
-2. Karren Dai Yang (MIT IDSS)
+2. Anastasiya Belyaeva (MIT IDSS)
+3. Arushi Jain (Microsoft)
+4. Meaghan McConlogue (Broad Institute)
 
 ### What will you do at the workshop?
 The WiDS  Datathon workshop consists of a data science/machine learning tutorial followed by a team-based practical session focused on a single data science task. In this workshop:
@@ -17,64 +19,15 @@ We invite all participants with a strong interest in data science!
 
 Programming experience as well as some previous training in probability, statistics and mathematics is helpful. But we welcome participants from all backgrounds!
 
-### Where is the workshop located?
+### Where and When is the workshop?
 
-The workshop will be held at:
+This year the workshop will be held remotely, over two consecutive Saturdays in February:
+&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 20th, 10am-3pm (with a one hour lunch break)*
+&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 27th, 10am-3pm (with a one hour lunch break)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*1 Memorial Drive*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Floor M*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cambridge, MA 02142*
+### What is the format of the workshop?
+The technical content for the workshop will be delivered via a series of pre-recorded videos and related exercises. During the workshop meetings, participants will form teams and work on the datathon challenge with the guidance of mentors and organizers.
 
-### How do I get there?
-
-**Parking information:** The One Memorial Drive parking garage is in the NERD Center building and is open to the public. This garage is privately owned, and Microsoft is unable to validate parking. The daily maximum rate is $37.00. 
-​
-**Public Transportation:** The NERD Center is a .3 mile walk from the Kendall/MIT red line stop and a .4 mile walk from several bus lines.
-
-### What should you bring to the workshop?
-You will need to bring a laptop. 
-
-You must bring a ***government or school issued ID*** and check-in at the Microsoft front desk at the main entrance. You will then be directed to floor M. 
-
----
-
-# Workshop Schedule
-<table>
-  <tr>
-    <td><b>08:00am - 9:00am</b></td>
-    <td>Breakfast & Check-in</td>
-  </tr>
-  <tr>
-    <td><b>09:00am - 9:10am</b></td>
-    <td>Welcome</td>
-  </tr>
-  <tr>
-    <td><b>09:10am - 10:30am</b></td> 
-    <td>Introduction to Data Exploration & Classification</td>
-  </tr>
-  <tr>
-    <td><b>10:30am - 10:40am</b></td> 
-    <td>Coffee Break</td>
-  </tr>
-  <tr>
-    <td><b>10:40am - 12:00pm</b></td> 
-    <td>Introduction to Neural Network Models & Ensemble Methods</td>
-  </tr>
-  <tr>
-    <td><b>12:00pm - 01:00pm</b></td> 
-    <td>Lunch & Team-formation</td>
-  </tr>
-  <tr>
-    <td><b>01:00pm - 04:30pm</b></td> 
-    <td>Datathon</td>
-  </tr>
-  <tr>
-    <td><b>04:30pm - 05:00pm</b></td> 
-    <td>Report from Teams</td>
-  </tr>
-</table>
-
----
 
 # Preparing for the Workshop
 
@@ -87,10 +40,4 @@ You must bring a ***government or school issued ID*** and check-in at the Micros
 2. Read about the two different types of cells (code and text) in a `colab` notebook.
 3. Make sure you know how to 'run' or 'render' a cell.
 4. Find quick primers on `python` [here](https://ehmatthes.github.io/pcc/cheatsheets/README.html).
-
----
-
-The WiDS Cambridge Datathon Workshop is generously sponsored by Microsoft NERD.
-
-![msft logo](./images/MSFT_logo.jpg)
 
