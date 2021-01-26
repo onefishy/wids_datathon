@@ -38,9 +38,9 @@ The technical content for the workshop will be delivered via a series of pre-rec
 1. Navigate to [www.kaggle.com](www.kaggle.com)
 2. Follow instructions to create an account
 
-#### Familiarize Yourself with `colab` and `python`
-1. Open the [Basic Features Overview Notebook](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) in `colab`.
-2. Read about the two different types of cells (code and text) in a `colab` notebook.
+#### Familiarize Yourself with `DeepNote` and `python`
+1. Create a free [`DeepNote` account](https://deepnote.com) in `DeepNote`.
+2. [Read about](https://docs.deepnote.com) the two different types of cells (code and text) in a `DeepNote` notebook.
 3. Make sure you know how to 'run' or 'render' a cell.
 4. Find quick primers on `python` [here](https://ehmatthes.github.io/pcc/cheatsheets/README.html).
 
