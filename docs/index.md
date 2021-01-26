@@ -24,7 +24,7 @@ Programming experience as well as some previous training in probability, statist
 ### Where and When is the workshop?
 
 This year the workshop will be held remotely, over two consecutive Saturdays in February:
-&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 20th, 10am-3pm (with a one hour lunch break)*
+&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 20th, 10am-3pm (with a one hour lunch break)*<br>
 &nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 27th, 10am-3pm (with a one hour lunch break)*
 
 ### What is the format of the workshop?
