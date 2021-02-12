@@ -3,10 +3,10 @@
 ### Who is organizing the workshop?
 
 This year's workshop is organized by:
-1. Weiwei Pan (Harvard IACS)
-2. Anastasiya Belyaeva (MIT IDSS)
-3. Arushi Jain (Microsoft)
-4. Meaghan McConlogue (Broad Institute)
+1. [Weiwei Pan (Harvard IACS)](./wp.html)
+2. [Anastasiya Belyaeva (MIT IDSS)](./ab.html)
+3. [Arushi Jain (Microsoft)](./aj.html)
+4. [Meaghan McConlogue (Broad Institute)](./mm.html)
 
 ### What will you do at the workshop?
 The WiDS  Datathon workshop consists of a data science/machine learning tutorial followed by a team-based practical session focused on a single data science task. In this workshop:
