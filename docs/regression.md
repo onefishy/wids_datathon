@@ -31,4 +31,5 @@
   - [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
   - [Train Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 
-- **Exploratory Notebooks:** [Linear and Polynomial Regression](https://deepnote.com/project/49b24b4a-576e-42d4-a435-25c4392617a6)
+## Exploratory Notebook
+[Linear and Polynomial Regression](https://deepnote.com/project/49b24b4a-576e-42d4-a435-25c4392617a6)
