@@ -34,4 +34,6 @@
   - [Bagging](https://towardsdatascience.com/a-guide-to-ensemble-learning-d3686c9bed9a)
   
 - **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfDUYEIELn8Fnq6qjZgcAEqfbU6IXu0F9TPC_eH3fSNHZFV9Q/viewform?usp=sf_link)
-- **Exploratory Notebooks:** [Generalization and Uncertainty](https://deepnote.com/project/1163d467-eac1-4050-a6cd-e7900d87eaaa)
+
+## Exploratory Notebooks 
+[Generalization and Uncertainty](https://deepnote.com/project/1163d467-eac1-4050-a6cd-e7900d87eaaa)
