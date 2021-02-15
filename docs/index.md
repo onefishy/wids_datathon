@@ -44,3 +44,7 @@ The technical content for the workshop will be delivered via a series of pre-rec
 3. Make sure you know how to 'run' or 'render' a cell.
 4. Find quick primers on `python` [here](https://ehmatthes.github.io/pcc/cheatsheets/README.html).
 
+#### Review the Materials Covering Technical Background for the Datathon Challenge
+Since the 2021 Datathon workshop will be happening virtually, pedagogical materials addressing the technical background necessary for the Datahon challenge will be delivered through pre-recorded videos and structured notebooks. We've prepared instructional materials with a range of different depths. We ask that participants review the materials that are complementary to their backgrounds before coming to the workshop:
+
+[Technical Materials for the Workshop](./prepare)
