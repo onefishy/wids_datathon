@@ -30,6 +30,8 @@
   - [Polynomial Regression in Python](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491)
   - [Overfitting vs Underfitting](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
   - [Train Test Split](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+  
+- **Concept Quiz:** [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSf-Lqo3ODY01KltOTXoaRy9H5OTYRkb-SLez0OeC_nx6IpgTA/viewform?usp=sf_link)
 
 ## Exploratory Notebook
 [Linear and Polynomial Regression](https://deepnote.com/project/49b24b4a-576e-42d4-a435-25c4392617a6)
