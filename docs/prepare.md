@@ -15,7 +15,7 @@ The following are resources for getting started with Kaggle competitions and wit
 
 The following are starter code for this year's datathon challenge:
 1. [WiDS Global 2021 Starter Code (notebook)](https://www.kaggle.com/usharengaraju/widsdatathon2021-catboost-starter)
-2. [Video Walk through of the Official WiDS Cambridge 2021 Starter Code (notebook)](https://youtu.be/znWhRooRjWQ)
+2. [Video Walk through of the Official WiDS Cambridge 2021 Starter Code (video)](https://youtu.be/znWhRooRjWQ)
 2. [The Official WiDS Cambridge 2021 Starter Code (notebook)](https://deepnote.com/project/bb1228b2-8df8-4e09-b078-7b81911b3da5)
 
 **Important:** We ask that all participants work through the [Official WiDS Cambridge 2021 Starter Code](https://www.kaggle.com/usharengaraju/widsdatathon2021-catboost-starter) and the [Official WiDS Cambridge 2021 Starter Code](https://deepnote.com/project/bb1228b2-8df8-4e09-b078-7b81911b3da5) prior to attending the workshop meetings.
