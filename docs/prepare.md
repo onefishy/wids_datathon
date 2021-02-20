@@ -59,3 +59,4 @@ These materials are taken from [DSC6232 Machine Learning and Computational Stati
 4. [Topics on Classification: Additional Models](./classifier.html)
 5. [Topics on Neural Networks for Regression](./nn_regression.html)
 6. [Topics on Neural Networks for Classification](./nn_classify.html)
+7. [Topics on Transforming and Manipulating Data](./transform.html)
