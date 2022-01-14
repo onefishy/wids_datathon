@@ -27,14 +27,5 @@ I am in Microsoft's AI rotation program where we work with different partner tea
 </td></tr>
 </table>
 
-### Meaghan McConlogue
-<table>
-<tr><td><img src="https://i.ibb.co/xC5BJy5/mm.png" alt="mm" width="500px" border="0"></td><td>
-<b>What I Do:</b>I am a Software Product Manager in the Data Sciences Platform at the Broad Institute.<br><br>
-My team in the Data Sciences Platform develops tools for scientists and computational biologists to do secure cloud based research using Terra,  an open platform that connects researchers, datasets and tools into one location. <br><br>
-<b>What I Love About Data Science:</b>As a mathematician and population genetics researcher by training, I love how data science enables us to make sense of large scale ecosystems. <br><br>
-<b>What Else:</b>It is an honor to be a part of WiDS and I can’t wait to meet the participants! 
-</td></tr>
-</table>
 
 
