@@ -6,7 +6,6 @@ This year's workshop is organized by:
 1. [Weiwei Pan (Harvard IACS)](./bios.html)
 2. [Anastasiya Belyaeva (MIT IDSS)](./bios.html)
 3. [Arushi Jain (Microsoft)](./bios.html)
-4. [Meaghan McConlogue (Broad Institute)](./bios.html)
 
 ### What will you do at the workshop?
 The WiDS  Datathon workshop consists of a data science/machine learning tutorial followed by a team-based practical session focused on a single data science task. In this workshop:
@@ -19,14 +18,14 @@ We invite all participants with a strong interest in data science!
 
 Programming experience as well as some previous training in probability, statistics and mathematics is helpful. But we welcome participants from all backgrounds!
 
-[Register for the workshop at our Eventbrite page!](https://www.eventbrite.com/e/wids-2021-cambridge-datathon-workshop-registration-138517049223?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+[Register for the workshop at our Eventbrite page!]()
 
 ### Where and When is the workshop?
 
 This year the workshop will be held remotely, over two consecutive Saturdays in February:
 
-&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 20th, 10am-3pm (with a one hour lunch break)*<br>
-&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 27th, 10am-3pm (with a one hour lunch break)*
+&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 12th, 11am-3pm (with a one hour lunch break)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp; *Febrauary 19th, 11am-3pm (with a one hour lunch break)*
 
 ### What is the format of the workshop?
 The technical content for the workshop will be delivered via a series of pre-recorded videos and related exercises. During the workshop meetings, participants will form teams and work on the datathon challenge with the guidance of mentors and organizers.
@@ -43,8 +42,3 @@ The technical content for the workshop will be delivered via a series of pre-rec
 2. [Read about](https://docs.deepnote.com) the two different types of cells (code and text) in a `DeepNote` notebook.
 3. Make sure you know how to 'run' or 'render' a cell.
 4. Find quick primers on `python` [here](https://ehmatthes.github.io/pcc/cheatsheets/README.html).
-
-#### Review the Materials Covering Technical Background for the Datathon Challenge
-Since the 2021 Datathon workshop will be happening virtually, pedagogical materials addressing the technical background necessary for the Datahon challenge will be delivered through pre-recorded videos and structured notebooks. We've prepared instructional materials with a range of different depths. We ask that participants review the materials that are complementary to their backgrounds before coming to the workshop:
-
-[Technical Materials for the Workshop](./prepare)
