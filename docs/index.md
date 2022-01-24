@@ -7,6 +7,7 @@ This year's workshop is organized by:
 2. [Anastasiya Belyaeva (MIT IDSS)](./bios.html)
 3. [Arushi Jain (Microsoft)](./bios.html)
 
+### Register for the workshop!
 [**Register for the workshop at our Eventbrite page!**](https://www.eventbrite.com/e/wids-2022-cambridge-datathon-workshop-registration-247228696687)
 
 
