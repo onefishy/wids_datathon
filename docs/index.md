@@ -7,6 +7,9 @@ This year's workshop is organized by:
 2. [Anastasiya Belyaeva (MIT IDSS)](./bios.html)
 3. [Arushi Jain (Microsoft)](./bios.html)
 
+[**Register for the workshop at our Eventbrite page!**](https://www.eventbrite.com/e/wids-2022-cambridge-datathon-workshop-registration-247228696687)
+
+
 ### What will you do at the workshop?
 The WiDS  Datathon workshop consists of a data science/machine learning tutorial followed by a team-based practical session focused on a single data science task. In this workshop:
 1.  you will be introduced to data science/machine learning concepts and methods (especially relevant to the [WiDS Datathon Challenge](https://www.widsconference.org/datathon.html))
@@ -18,7 +21,6 @@ We invite all participants with a strong interest in data science!
 
 Programming experience as well as some previous training in probability, statistics and mathematics is helpful. But we welcome participants from all backgrounds!
 
-[Register for the workshop at our Eventbrite page!](https://www.eventbrite.com/e/wids-2022-cambridge-datathon-workshop-registration-247228696687)
 
 ### Where and When is the workshop?
 
