@@ -46,4 +46,4 @@ The technical content for the workshop will be delivered via a series of pre-rec
 3. Make sure you know how to 'run' or 'render' a cell.
 
 #### Work Through the Starter Materials for the Workshop
-1. [Starter Materials for the Workshop](/prepare.html)
+1. [Starter Materials for the Workshop](./prepare.html)
