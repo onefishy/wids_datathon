@@ -44,4 +44,6 @@ The technical content for the workshop will be delivered via a series of pre-rec
 1. Create a free [`DeepNote` account](https://deepnote.com) in `DeepNote`.
 2. [Read about](https://docs.deepnote.com) the two different types of cells (code and text) in a `DeepNote` notebook.
 3. Make sure you know how to 'run' or 'render' a cell.
-4. Find quick primers on `python` [here](https://ehmatthes.github.io/pcc/cheatsheets/README.html).
+
+#### Work Through the Starter Materials for the Workshop
+1. [Starter Materials for the Workshop](/prepare.html)
