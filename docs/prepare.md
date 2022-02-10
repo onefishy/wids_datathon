@@ -1,24 +1,22 @@
 # Preparing for the Workshop
-Since the 2021 Datathon workshop will be happening virtually, pedagogical materials addressing the technical background necessary for the Datahon challenge will be delivered through pre-recorded videos and structured notebooks. We've prepared instructional materials with a range of different depths. We ask that participants review the materials that are complementary to their backgrounds before coming to the workshop - depending on your background, you may find that the materials cover concepts with which you are already familiar or you may find that only some of the materials cover concepts that are new to you. The best way to see if you need to brush up on a concept is to take the concept quiz (which follows every topic) or run through the exploratory DeepNote notebooks (which follows every 2-3 topics).
+Since the 2022 Datathon workshop will be happening virtually, pedagogical materials addressing the technical background necessary for the Datahon challenge will be delivered through pre-recorded videos and structured notebooks. We've prepared instructional materials with a range of different depths. We ask that participants review the materials that are complementary to their backgrounds before coming to the workshop - depending on your background, you may find that the materials cover concepts with which you are already familiar or you may find that only some of the materials cover concepts that are new to you. The best way to see if you need to brush up on a concept is to take the concept quiz (which follows every topic) or run through the exploratory DeepNote notebooks (which follows every 2-3 topics).
 
-## About the WiDS 2021 Datathon
-This year, participants will work again with the WiDS 2020 Datathon data from MIT’s [GOSSIS (Global Open Source Severity of Illness Score)](https://gossis.mit.edu) dataset. Last year, the challenge was to predict patient survival; this year. the WiDS Datathon will focus on creating classifiers to determine whether patients have a type of diabetes which could potentially inform later treatment in the ICU.
+## About the WiDS 2022 Datathon
+The WiDS Datathon 2022 focuses on a prediction task involving roughly 100k observations of building energy usage records collected over 7 years and a number of states within the United States. The dataset consists of building characteristics (e.g. floor area, facility type etc), weather data for the location of the building (e.g. annual average temperature, annual total precipitation etc) as well as the energy usage for the building and the given year, measured as Site Energy Usage Intensity (Site EUI). Each row in the data corresponds to the a single building observed in a given year. Your task is to predict the Site EUI for each row, given the characteristics of the building and the weather data for the location of the building.
 
-The [WiDS Datathon](https://www.kaggle.com/c/widsdatathon2021) is hosted on Kaggle, an online community of data scientists.
+The [WiDS Datathon](https://www.kaggle.com/c/widsdatathon2022/) is hosted on Kaggle, an online platform for data science competitions and community activities.
 
 ### Resources for Exploring and Understanding the Data
 The following are resources for getting started with Kaggle competitions and with working with this year's data:
 
-1. [Getting Started with Kaggle (Video)](https://www.youtube.com/watch?v=4e5bMzUAbDs)
-2. [Getting Started with the Datathon Challenge: Diabetes Prediction for ICU Patients (Video)](https://www.youtube.com/watch?v=LuPcDGY3dPI)
-3. [An Introduction to Exploratory Data Analysis (Notebook)](https://www.kaggle.com/yubiabia98/visualization-exploratory-data-analysis-light)
+1. [Getting Started with Kaggle (Video)](https://www.youtube.com/watch?v=4e5bMzUAbDs), [Getting Started with Kaggle Tutorial Blog Post](https://www.kaggle.com/alexisbcook/getting-started-with-kaggle-competitions)
+2. [Panel Discussion on the Importance of Data Science for Climate Change and the Particular Importance of Energy Consumption Prediction (Video)](https://youtu.be/0rETiC0EVuQ)
+3. [Exploratory Data Analysis (Video)](https://www.youtube.com/watch?v=7aTyQXaUVnw)
 
-The following are starter code for this year's datathon challenge:
-1. [WiDS Global 2021 Starter Code (Notebook)](https://www.kaggle.com/usharengaraju/widsdatathon2021-catboost-starter)
-2. [Video Walk through of the Official WiDS Cambridge 2021 Starter Code (Video)](https://youtu.be/znWhRooRjWQ)
-2. [The Official WiDS Cambridge 2021 Starter Code (Notebook)](https://deepnote.com/project/bb1228b2-8df8-4e09-b078-7b81911b3da5)
+The following is the WiDS Cambridge starter code for this year's datathon challenge:
+1. [The Official WiDS Cambridge 2022 Starter Code (Notebook)](https://deepnote.com/project/WiDS-Datathon-2022-tKoG1TDdQDCIP8Qa41cytg/%2Fnotebook.ipynb)
 
-**Important:** We ask that all participants work through the [Official WiDS Cambridge 2021 Starter Code](https://www.kaggle.com/usharengaraju/widsdatathon2021-catboost-starter) and the [Official WiDS Cambridge 2021 Starter Code](https://deepnote.com/project/bb1228b2-8df8-4e09-b078-7b81911b3da5) prior to attending the workshop meetings.
+**Important:** We ask that all participants familiarize themselves with the WiDS Datathon Kaggle site and work through the [Official WiDS Cambridge 2021 Starter Code](https://deepnote.com/project/bb1228b2-8df8-4e09-b078-7b81911b3da5) prior to attending the workshop meetings.
 
 ## Technical Background for the Datathon Challenge
 
@@ -55,8 +53,5 @@ These materials are taken from [DSC6232 Machine Learning and Computational Stati
 
 1. [Topics on Regression](./regression.html)
 2. [Topics on Uncertainty, Variance and Bias](./uncertainty.html)
-3. [Topics on Classification: Logistic Regression](./logistic.html)
-4. [Topics on Classification: Additional Models](./classifier.html)
-5. [Topics on Neural Networks for Regression](./nn_regression.html)
-6. [Topics on Neural Networks for Classification](./nn_classify.html)
-7. [Topics on Transforming and Manipulating Data](./transform.html)
+3. [Topics on Neural Networks for Regression](./nn_regression.html)
+4. [Topics on Transforming and Manipulating Data](./transform.html)
